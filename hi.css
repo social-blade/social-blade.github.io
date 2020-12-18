@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Varela Round;
+    src: url(../fonts/VarelaRound-Regular.ttf);
+}
+
+body {
+    font-family: Varela Round !important;
+    background-color: rgb(41, 43, 44);
+    margin: 0;
+    overflow-x: hidden;
+    overflow-x: hidden;
+    color:white
+  }
